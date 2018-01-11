@@ -1,7 +1,7 @@
 ---
 title: "Week1"
 date: 2018-01-12T00:35:38+09:00
-draft: true
+draft: false
 ---
 
 Computer Science Basics  
