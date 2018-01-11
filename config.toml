@@ -1,4 +1,4 @@
-baseURL = "https://elainena.github.io.git"
+baseURL = "https://github.com/elainena/elainena.github.io.git"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cactus"
